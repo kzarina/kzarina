@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zarina.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Full-Stack development.
+- 👀 I’m currently learning Full-Stack development.
+- 🌱 My toolstack: HTML, CSS, JavaScript, Express.js.
 - 📫 How to reach me: https://www.linkedin.com/in/zarina-kubanychbekova/
 
 <!---
